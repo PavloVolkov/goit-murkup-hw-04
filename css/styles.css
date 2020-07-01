@@ -497,6 +497,9 @@ height:50px;
   margin-left: 30px;
   margin-bottom: 30px;
 }
+.progects-list .item:hover{
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
 .progects-list .item > .text {
   display: flex;
 
